@@ -5,7 +5,7 @@
 </p>
 
 ##### Tools Used:
-HTML5, SASS/SCSS, JavaScript, and Bootstrap 5
+HTML5, CSS/SCSS, JavaScript, and Bootstrap 5
 
 ##### View Site:
 
